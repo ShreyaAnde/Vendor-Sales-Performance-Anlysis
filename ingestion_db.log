@@ -1,0 +1,159 @@
+2025-07-26 15:03:51,887 - INFO - Ingestingbegin_inventory.csv in db
+2025-07-26 15:04:40,404 - INFO - Ingestingbegin_inventory.csv in db
+2025-07-26 15:06:47,131 - INFO - Ingestingbegin_inventory.csv in db
+2025-07-26 15:06:48,799 - INFO - ----------Ingestion Complete---------
+2025-07-26 15:06:48,800 - INFO - 
+Total Time Taken: 0.03319302797317505minutes
+2025-07-26 15:06:49,165 - INFO - Ingestingend_inventory.csv in db
+2025-07-26 15:06:51,163 - INFO - ----------Ingestion Complete---------
+2025-07-26 15:06:51,164 - INFO - 
+Total Time Taken: 0.07259392738342285minutes
+2025-07-26 15:06:57,264 - INFO - Ingestingpurchases.csv in db
+2025-07-26 15:07:43,644 - INFO - ----------Ingestion Complete---------
+2025-07-26 15:07:43,644 - INFO - 
+Total Time Taken: 0.9472753365834554minutes
+2025-07-26 15:07:44,107 - INFO - Ingestingpurchase_prices.csv in db
+2025-07-26 15:07:44,352 - INFO - ----------Ingestion Complete---------
+2025-07-26 15:07:44,352 - INFO - 
+Total Time Taken: 0.9590677102406819minutes
+2025-07-26 15:08:16,503 - INFO - Ingestingsales.csv in db
+2025-07-26 15:21:32,717 - INFO - ----------Ingestion Complete---------
+2025-07-26 15:21:32,731 - INFO - 
+Total Time Taken: 14.764948868751526minutes
+2025-07-26 20:26:11,242 - INFO - Ingestingbegin_inventory.csv in db
+2025-07-26 20:26:16,334 - INFO - ----------Ingestion Complete---------
+2025-07-26 20:26:16,334 - INFO - 
+Total Time Taken: 0.09803747733434041minutes
+2025-07-26 20:26:17,098 - INFO - Ingestingend_inventory.csv in db
+2025-07-26 20:26:21,430 - INFO - ----------Ingestion Complete---------
+2025-07-26 20:26:21,430 - INFO - 
+Total Time Taken: 0.18297074238459268minutes
+2025-07-26 20:26:29,638 - INFO - Ingestingpurchases.csv in db
+2025-07-26 20:27:50,643 - INFO - ----------Ingestion Complete---------
+2025-07-26 20:27:50,645 - INFO - 
+Total Time Taken: 1.669846812884013minutes
+2025-07-26 20:27:51,140 - INFO - Ingestingpurchase_prices.csv in db
+2025-07-26 20:27:51,658 - INFO - ----------Ingestion Complete---------
+2025-07-26 20:27:51,658 - INFO - 
+Total Time Taken: 1.6867674668629964minutes
+2025-07-26 20:28:17,906 - INFO - Ingestingsales.csv in db
+2025-07-26 20:44:45,647 - INFO - ----------Ingestion Complete---------
+2025-07-26 20:44:45,654 - INFO - 
+Total Time Taken: 18.586544724305472minutes
+2025-07-26 20:44:47,649 - INFO - Ingestingvendor_invoice.csv in db
+2025-07-26 20:44:50,739 - INFO - ----------Ingestion Complete---------
+2025-07-26 20:44:50,740 - INFO - 
+Total Time Taken: 18.67146530946096minutes
+2025-07-27 20:08:10,683 - INFO - Ingestingbegin_inventory.csv in db
+2025-07-27 20:08:13,860 - INFO - ----------Ingestion Complete---------
+2025-07-27 20:08:13,861 - INFO - 
+Total Time Taken: 0.059325615564982094minutes
+2025-07-27 20:08:14,674 - INFO - Ingestingend_inventory.csv in db
+2025-07-27 20:08:18,616 - INFO - ----------Ingestion Complete---------
+2025-07-27 20:08:18,616 - INFO - 
+Total Time Taken: 0.1385923186937968minutes
+2025-07-27 20:08:28,697 - INFO - Ingestingpurchases.csv in db
+2025-07-27 20:09:38,328 - INFO - ----------Ingestion Complete---------
+2025-07-27 20:09:38,336 - INFO - 
+Total Time Taken: 1.4670402526855468minutes
+2025-07-27 20:09:38,985 - INFO - Ingestingpurchase_prices.csv in db
+2025-07-27 20:09:39,258 - INFO - ----------Ingestion Complete---------
+2025-07-27 20:09:39,258 - INFO - 
+Total Time Taken: 1.482631778717041minutes
+2025-07-27 20:10:12,890 - INFO - Ingestingsales.csv in db
+2025-07-28 08:17:22,733 - INFO - Ingestingbegin_inventory.csv in db
+2025-07-28 08:17:24,623 - INFO - ----------Ingestion Complete---------
+2025-07-28 08:17:24,623 - INFO - 
+Total Time Taken: 0.036241416136423746minutes
+2025-07-28 08:17:25,128 - INFO - Ingestingend_inventory.csv in db
+2025-07-28 08:17:27,219 - INFO - ----------Ingestion Complete---------
+2025-07-28 08:17:27,219 - INFO - 
+Total Time Taken: 0.07953166564305623minutes
+2025-07-28 08:17:31,740 - INFO - Ingestingpurchases.csv in db
+2025-07-28 08:18:08,524 - INFO - ----------Ingestion Complete---------
+2025-07-28 08:18:08,525 - INFO - 
+Total Time Taken: 0.7679409424463908minutes
+2025-07-28 08:18:09,246 - INFO - Ingestingpurchase_prices.csv in db
+2025-07-28 08:18:09,453 - INFO - ----------Ingestion Complete---------
+2025-07-28 08:18:09,453 - INFO - 
+Total Time Taken: 0.7834263205528259minutes
+2025-07-28 08:18:29,780 - INFO - Ingestingsales.csv in db
+2025-07-28 08:35:09,049 - INFO - ----------Ingestion Complete---------
+2025-07-28 08:35:09,067 - INFO - 
+Total Time Taken: 17.776532510916393minutes
+2025-07-28 08:35:10,495 - INFO - Ingestingvendor_invoice.csv in db
+2025-07-28 08:35:10,731 - INFO - ----------Ingestion Complete---------
+2025-07-28 08:35:10,731 - INFO - 
+Total Time Taken: 17.804732314745586minutes
+2025-07-28 20:19:47,570 - INFO - Creating Vendor Summary table...
+2025-07-28 20:25:02,195 - INFO -                     VendorName  VendorNumber  Brand  PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  TotalSalesPrice  TotalExciseTax  TotalFreightCost
+0  DIAGEO NORTH AMERICA INC             3960   8111           0.77         0.99     50                 337660             259998.20            334939.0          331589.61         21424.59        17579.29         257032.07
+1  DIAGEO NORTH AMERICA INC             3960   1892           0.72         0.99     50                 254824             183473.28            253371.0          250837.29         20741.49        13295.86         257032.07
+2  SAZERAC CO INC                       8004   5111           0.72         0.99     50                 244654             176150.88            241963.0          239543.37         20941.47        12692.41          50293.62
+3  DIAGEO NORTH AMERICA INC             3960   3606           0.74         0.99     50                 226085             167302.90            225741.0          223483.59         21764.16        11842.95         257032.07
+4  MAJESTIC FINE WINES                 10000   6570           6.77        10.99    750                 215668            1460072.36            214238.0         2326007.78        189608.96        24083.77          17587.59
+2025-07-28 20:25:02,196 - INFO - Cleaning Data...
+2025-07-28 20:25:50,437 - INFO - Creating Vendor Summary table...
+2025-07-28 20:27:07,314 - INFO -                     VendorName  VendorNumber  Brand  PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  TotalSalesPrice  TotalExciseTax  TotalFreightCost
+0  DIAGEO NORTH AMERICA INC             3960   8111           0.77         0.99     50                 337660             259998.20            334939.0          331589.61         21424.59        17579.29         257032.07
+1  DIAGEO NORTH AMERICA INC             3960   1892           0.72         0.99     50                 254824             183473.28            253371.0          250837.29         20741.49        13295.86         257032.07
+2  SAZERAC CO INC                       8004   5111           0.72         0.99     50                 244654             176150.88            241963.0          239543.37         20941.47        12692.41          50293.62
+3  DIAGEO NORTH AMERICA INC             3960   3606           0.74         0.99     50                 226085             167302.90            225741.0          223483.59         21764.16        11842.95         257032.07
+4  MAJESTIC FINE WINES                 10000   6570           6.77        10.99    750                 215668            1460072.36            214238.0         2326007.78        189608.96        24083.77          17587.59
+2025-07-28 20:27:07,314 - INFO - Cleaning Data...
+2025-07-29 15:21:28,378 - INFO - Creating Vendor Summary table...
+2025-07-29 15:23:50,598 - INFO -                     VendorName  VendorNumber  Brand  PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  TotalSalesPrice  TotalExciseTax  TotalFreightCost
+0  DIAGEO NORTH AMERICA INC             3960   8111           0.77         0.99     50                 337660             259998.20            334939.0          331589.61         21424.59        17579.29         257032.07
+1  DIAGEO NORTH AMERICA INC             3960   1892           0.72         0.99     50                 254824             183473.28            253371.0          250837.29         20741.49        13295.86         257032.07
+2  SAZERAC CO INC                       8004   5111           0.72         0.99     50                 244654             176150.88            241963.0          239543.37         20941.47        12692.41          50293.62
+3  DIAGEO NORTH AMERICA INC             3960   3606           0.74         0.99     50                 226085             167302.90            225741.0          223483.59         21764.16        11842.95         257032.07
+4  MAJESTIC FINE WINES                 10000   6570           6.77        10.99    750                 215668            1460072.36            214238.0         2326007.78        189608.96        24083.77          17587.59
+2025-07-29 15:23:50,601 - INFO - Cleaning Data...
+2025-07-31 20:14:13,767 - INFO - Creating Vendor Summary table...
+2025-07-31 20:16:05,215 - INFO -                     VendorName  VendorNumber  Brand  PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  TotalSalesPrice  TotalExciseTax  TotalFreightCost
+0  DIAGEO NORTH AMERICA INC             3960   8111           0.77         0.99     50                 337660             259998.20            334939.0          331589.61         21424.59        17579.29         257032.07
+1  DIAGEO NORTH AMERICA INC             3960   1892           0.72         0.99     50                 254824             183473.28            253371.0          250837.29         20741.49        13295.86         257032.07
+2  SAZERAC CO INC                       8004   5111           0.72         0.99     50                 244654             176150.88            241963.0          239543.37         20941.47        12692.41          50293.62
+3  DIAGEO NORTH AMERICA INC             3960   3606           0.74         0.99     50                 226085             167302.90            225741.0          223483.59         21764.16        11842.95         257032.07
+4  MAJESTIC FINE WINES                 10000   6570           6.77        10.99    750                 215668            1460072.36            214238.0         2326007.78        189608.96        24083.77          17587.59
+2025-07-31 20:16:05,215 - INFO - Cleaning Data...
+2025-08-05 11:53:21,576 - INFO - Creating Vendor Summary table...
+2025-08-05 11:58:30,091 - INFO -                     VendorName  VendorNumber  Brand  PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  TotalSalesPrice  TotalExciseTax  TotalFreightCost
+0  DIAGEO NORTH AMERICA INC             3960   8111           0.77         0.99     50                 337660             259998.20            334939.0          331589.61         21424.59        17579.29         257032.07
+1  DIAGEO NORTH AMERICA INC             3960   1892           0.72         0.99     50                 254824             183473.28            253371.0          250837.29         20741.49        13295.86         257032.07
+2  SAZERAC CO INC                       8004   5111           0.72         0.99     50                 244654             176150.88            241963.0          239543.37         20941.47        12692.41          50293.62
+3  DIAGEO NORTH AMERICA INC             3960   3606           0.74         0.99     50                 226085             167302.90            225741.0          223483.59         21764.16        11842.95         257032.07
+4  MAJESTIC FINE WINES                 10000   6570           6.77        10.99    750                 215668            1460072.36            214238.0         2326007.78        189608.96        24083.77          17587.59
+2025-08-05 11:58:30,091 - INFO - Cleaning Data...
+2025-08-05 12:01:42,596 - INFO - Creating Vendor Summary table...
+2025-08-05 12:07:43,231 - INFO -                     VendorName  VendorNumber  Brand  PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  TotalSalesPrice  TotalExciseTax  TotalFreightCost
+0  DIAGEO NORTH AMERICA INC             3960   8111           0.77         0.99     50                 337660             259998.20            334939.0          331589.61         21424.59        17579.29         257032.07
+1  DIAGEO NORTH AMERICA INC             3960   1892           0.72         0.99     50                 254824             183473.28            253371.0          250837.29         20741.49        13295.86         257032.07
+2  SAZERAC CO INC                       8004   5111           0.72         0.99     50                 244654             176150.88            241963.0          239543.37         20941.47        12692.41          50293.62
+3  DIAGEO NORTH AMERICA INC             3960   3606           0.74         0.99     50                 226085             167302.90            225741.0          223483.59         21764.16        11842.95         257032.07
+4  MAJESTIC FINE WINES                 10000   6570           6.77        10.99    750                 215668            1460072.36            214238.0         2326007.78        189608.96        24083.77          17587.59
+2025-08-05 12:07:43,232 - INFO - Cleaning Data...
+2025-08-05 12:08:36,193 - INFO - Creating Vendor Summary table...
+2025-08-05 12:14:25,096 - INFO -                     VendorName  VendorNumber  Brand  PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  TotalSalesPrice  TotalExciseTax  TotalFreightCost
+0  DIAGEO NORTH AMERICA INC             3960   8111           0.77         0.99     50                 337660             259998.20            334939.0          331589.61         21424.59        17579.29         257032.07
+1  DIAGEO NORTH AMERICA INC             3960   1892           0.72         0.99     50                 254824             183473.28            253371.0          250837.29         20741.49        13295.86         257032.07
+2  SAZERAC CO INC                       8004   5111           0.72         0.99     50                 244654             176150.88            241963.0          239543.37         20941.47        12692.41          50293.62
+3  DIAGEO NORTH AMERICA INC             3960   3606           0.74         0.99     50                 226085             167302.90            225741.0          223483.59         21764.16        11842.95         257032.07
+4  MAJESTIC FINE WINES                 10000   6570           6.77        10.99    750                 215668            1460072.36            214238.0         2326007.78        189608.96        24083.77          17587.59
+2025-08-05 12:14:25,097 - INFO - Cleaning Data...
+2025-08-05 12:36:30,093 - INFO - Creating Vendor Summary table...
+2025-08-05 12:42:35,197 - INFO -                     VendorName  VendorNumber  Brand  PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  TotalSalesPrice  TotalExciseTax  TotalFreightCost
+0  DIAGEO NORTH AMERICA INC             3960   8111           0.77         0.99     50                 337660             259998.20            334939.0          331589.61         21424.59        17579.29         257032.07
+1  DIAGEO NORTH AMERICA INC             3960   1892           0.72         0.99     50                 254824             183473.28            253371.0          250837.29         20741.49        13295.86         257032.07
+2  SAZERAC CO INC                       8004   5111           0.72         0.99     50                 244654             176150.88            241963.0          239543.37         20941.47        12692.41          50293.62
+3  DIAGEO NORTH AMERICA INC             3960   3606           0.74         0.99     50                 226085             167302.90            225741.0          223483.59         21764.16        11842.95         257032.07
+4  MAJESTIC FINE WINES                 10000   6570           6.77        10.99    750                 215668            1460072.36            214238.0         2326007.78        189608.96        24083.77          17587.59
+2025-08-05 12:42:35,197 - INFO - Cleaning Data...
+2025-08-05 20:50:59,113 - INFO - Creating Vendor Summary table...
+2025-08-05 20:58:11,996 - INFO -                     VendorName  VendorNumber  Brand  PurchasePrice  ActualPrice Volume  TotalPurchaseQuantity  TotalPurchaseDollars  TotalSalesQuantity  TotalSalesDollars  TotalSalesPrice  TotalExciseTax  TotalFreightCost
+0  DIAGEO NORTH AMERICA INC             3960   8111           0.77         0.99     50                 337660             259998.20            334939.0          331589.61         21424.59        17579.29         257032.07
+1  DIAGEO NORTH AMERICA INC             3960   1892           0.72         0.99     50                 254824             183473.28            253371.0          250837.29         20741.49        13295.86         257032.07
+2  SAZERAC CO INC                       8004   5111           0.72         0.99     50                 244654             176150.88            241963.0          239543.37         20941.47        12692.41          50293.62
+3  DIAGEO NORTH AMERICA INC             3960   3606           0.74         0.99     50                 226085             167302.90            225741.0          223483.59         21764.16        11842.95         257032.07
+4  MAJESTIC FINE WINES                 10000   6570           6.77        10.99    750                 215668            1460072.36            214238.0         2326007.78        189608.96        24083.77          17587.59
+2025-08-05 20:58:11,997 - INFO - Cleaning Data...
